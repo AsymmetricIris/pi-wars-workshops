@@ -10,3 +10,10 @@ TODO
 - computer vision (or remote control) target shooting game
 - obstacle course
 - Lava Polava (line following can be done by computer vision or otherwise)
+
+Team members
+- Calum Thow
+- Claudia Garcia-Mendoza
+- David Ingleby
+- Liza Masson
+- Mario Fuente-Rodriguez
